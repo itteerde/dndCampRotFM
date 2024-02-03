@@ -2,7 +2,7 @@
 
 On Nightal 15th 1494 Gial Engstrand, apprentice investigator under the tutelage of the famous private investigator Sherlock Holmes from Baldur's Gate arrives in Bryn Shander and introduces himself to Sheriff Markham Southwell offering his services as part of his walz, the travels required to complete with multiple inquiries in varying locations in order to be recognized in the investigative community. Based on the recommendation letter from his mentor, and lacking alternatives, Southwell asks Engstrand to investigate the *__case__*.
 
-Gial had met Ezo ...
+Gial had met Ezo while he was investigating rumors that a Harengon had saved a group of kids from a Yeti on the outskirts of Bryn Shander. Where he found out that Ezo has been stayin in the town for about a year now, arriving just after the Rime began. He claims he comes from "The Chillbreath Forest" in the Feywild, but hasn't divulged much more than that yet. ...
 
 The Collossi Herja and Ketris arrived in Bryn Shander few days before  the 'week' passed. Ketris and Herja escorted a merchant from some other town, to Bryn Shander, after which we were looking for more work. They noticed that Gial had posted a sign on a message board outside of the Northlook, looking for help regarding an investigation he was conducting. They tore off the tab and showed up at the appointed time to meet with the group.
 
