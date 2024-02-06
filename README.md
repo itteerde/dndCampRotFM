@@ -11,6 +11,23 @@ The Collossi Herja and Ketris arrived in Bryn Shander few days before  the 'week
 
 # Bryn Shander
 
+
+## Dwarven Iron Ore
+
 Hammer 1st 1495. Three dwarves, **Hruna**, **Korux** & **Storn**, approach the crew in Bryn Shander's Northlook Tavern. Their speaker Hruna tells Gial that they have been referred to him by the Sheriff. They tell the crew that they were orgiginally four, transporting iron on slide to town, when they were attacked by Yeti approximately six miles east-north-east of town by Yetis. They offer 350gp for dealing with the Yetis in order to get back their slide (iron ore transport).
 
 The group finds the fourth dwarf. His corpse is partially ripped appart. The attackers, consistent with the Yeti attack, were however interrupted by archers. The tracks lead to the south. The group catches up with those causing the tracks, and it turns out to be goblins about to reach there Ice Bear drawn mobile home carriage with the slide carrying the iron. The group attacks the Goblins killing three or four until the Goblins surrender. During the fighting they learn that the groups female leader is called **Izobai**, and that they intend to bring the iron, *keepers finders*, to **Karkolohk**.
+
+As the group tries to communicate with the Goblins, they are approached by Kythos, the Tiefling. The group takes the sled and with Kythos return to Bryn Shander. When Gial casts Detect Magic during Resting he detects a strong Conjuration source under the clothing of Herja. Kythos seems to have a general authority problem with the authorities, in particular in Ten Towns. The group makes it to Bryn Shander and is paid the 350gp.
+
+
+## ?
+
+Hammer 1st 1495. After having closed the deal with the dwarves in the Shander's Northlook Tavern a bundled up figure enters the tavern and approaches Ezo. She is an elf, ageless qualities, speaks with local dialect. She introduces herself as **Dannika Graysteel**. She tells Ezo that he is probably the right person for her problem as it is about elemental spirits, looking for Chwinga. She is offering a `Lantern of Tracking` that is particularily keyd to find elementals. She wants the group to get a Chwinga for her to do some good for the towns. She offers the lantern and 25gp for the job. She can be found in the tavern or at her home which she points out to the group.
+
+The tavern's owner offers some rumors when asked for work.
+1. There was a traveller who stayed in the inn and was speaking about an expedition just out of Targos. He heard that in Targos there was a group planning an expdition to look for a Goliath Lycantroph to be heading to Kelvin's Cairn.
+
+
+# Ledger
+- Group owns Gial 10gp.
