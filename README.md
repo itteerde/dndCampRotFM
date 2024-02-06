@@ -21,7 +21,7 @@ The group finds the fourth dwarf. His corpse is partially ripped appart. The att
 As the group tries to communicate with the Goblins, they are approached by Kythos, the Tiefling. The group takes the sled and with Kythos return to Bryn Shander. When Gial casts Detect Magic during Resting he detects a strong Conjuration source under the clothing of Herja. Kythos seems to have a general authority problem with the authorities, in particular in Ten Towns. The group makes it to Bryn Shander and is paid the 350gp.
 
 
-## ?
+## Lycantroph Expedition
 
 Hammer 1st 1495. After having closed the deal with the dwarves in the Shander's Northlook Tavern a bundled up figure enters the tavern and approaches Ezo. She is an elf, ageless qualities, speaks with local dialect. She introduces herself as **Dannika Graysteel**. She tells Ezo that he is probably the right person for her problem as it is about elemental spirits, looking for Chwinga. She is offering a `Lantern of Tracking` that is particularily keyd to find elementals. She wants the group to get a Chwinga for her to do some good for the towns. She offers the lantern and 25gp for the job. She can be found in the tavern or at her home which she points out to the group.
 
@@ -30,4 +30,4 @@ The tavern's owner offers some rumors when asked for work.
 
 
 # Ledger
-- Group owns Gial 10gp.
+- Group owes Gial 10gp.
