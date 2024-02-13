@@ -23,11 +23,15 @@ As the group tries to communicate with the Goblins, they are approached by Kytho
 
 ## Lycantroph Expedition
 
-Hammer 1st 1495. After having closed the deal with the dwarves in the Shander's Northlook Tavern a bundled up figure enters the tavern and approaches Ezo. She is an elf, ageless qualities, speaks with local dialect. She introduces herself as **Dannika Graysteel**. She tells Ezo that he is probably the right person for her problem as it is about elemental spirits, looking for Chwinga. She is offering a `Lantern of Tracking` that is particularily keyd to find elementals. She wants the group to get a Chwinga for her to do some good for the towns. She offers the lantern and 25gp for the job. She can be found in the tavern or at her home which she points out to the group.
+Hammer 5th 1495. After having closed the deal with the dwarves in the Shander's Northlook Tavern a bundled up figure enters the tavern and approaches Ezo. She is an elf, ageless qualities, speaks with local dialect. She introduces herself as **Dannika Graysteel**. She tells Ezo that he is probably the right person for her problem as it is about elemental spirits, looking for **Chwinga**. She is offering a `Lantern of Tracking` that is particularily keyd to find elementals. She wants the group to get a Chwinga for her to do some good for the towns. She offers the lantern and 25gp for the job. She can be found in the tavern or at her home which she points out to the group.
 
 The tavern's owner offers some rumors when asked for work.
 1. There was a traveller who stayed in the inn and was speaking about an expedition just out of Targos. He heard that in Targos there was a group planning an expdition to look for a Goliath Lycantroph to be heading to Kelvin's Cairn.
 
+### Lycantroph Expedition => Save Gerrit
+
+The group buys and equips an Axe Beak, and heads to **Targos** to look for the expedition. The group meets **Keegan Valryn**, being led there by his sled dog. He is missing his husband **Gerrit**, who was leading a group of adventurers to **Kelvin's Cairn** by way of **Cair-Konig**. **Gerrit** led them there with a sled with six dogs. He offers free lodgin in the tavern and some artwork. They left three days ago. The dog reports (Speak Animals) that it was a large beast next to the mountain. Ezo convinces the dog to lead the group to where it happened. **Keegan** suggests to visit the supplier in **Caer-Konig** as that would have been where **Gerrit** would have picked up supplies.
+
 
 # Ledger
-- Group owes Gial 10gp.
+- Group owes Gial 0gp.
