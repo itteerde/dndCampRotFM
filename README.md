@@ -32,6 +32,7 @@ The tavern's owner offers some rumors when asked for work.
 
 The group buys and equips an Axe Beak, and heads to **Targos** to look for the expedition. The group meets **Keegan Valryn**, being led there by his sled dog. He is missing his husband **Gerrit**, who was leading a group of adventurers to **Kelvin's Cairn** by way of **Cair-Konig**. **Gerrit** led them there with a sled with six dogs. He offers free lodgin in the tavern and some artwork. They left three days ago. The dog reports (Speak Animals) that it was a large beast next to the mountain. Ezo convinces the dog to lead the group to where it happened. **Keegan** suggests to visit the supplier in **Caer-Konig** as that would have been where **Gerrit** would have picked up supplies.
 
+When arriving in **Caer Dineval** Kythos Snowbraid met **Kadroth**, asking for supplies. **Kadroth** accepted his request, however should Snowbraid return before the party kills duergar, Snowbraid is a deadman. While waiting tracks down the source of the `Lantern of Tracking` having lit up and indeed finds **Chwinga** playing tricks on an old woman. Ezo talks to one of them and that one starts following Ezo.
 
 # Ledger
 - Group owes Gial 0gp.
