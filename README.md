@@ -34,7 +34,9 @@ The group buys and equips an Axe Beak, and heads to **Targos** to look for the e
 
 Hammer 6th 1495. When arriving in **Caer Dineval** Kythos Snowbraid met **Kadroth**, asking for supplies. **Kadroth** accepted his request, however should Snowbraid return before the party kills duergar, Snowbraid is a deadman. While waiting tracks down the source of the `Lantern of Tracking` having lit up and indeed finds **Chwinga** playing tricks on an old woman. Ezo talks to one of them and that one starts following Ezo.
 
-The group arrives in **Caer Konig** being greeted by the drunken town speaker **Trovus** who tells the group when making night at the town tavern that the town had problems with thieves during the last three nights. Color switching magical Northern Light, pair of Goats from the Hook, Line and Sinker, small sack of pearls from Frozen Far Expeditions (which is where the group is supposed to go to get on track with the missing **Gerrit**).
+The group arrives in **Caer Konig** being greeted by the drunken town speaker **Trovus** who tells the group when making night at the town tavern that the town had problems with thieves during the last three nights. Color switching magical Northern Light, pair of Goats from the Hook, Line and Sinker, small sack of pearls from Frozenfar Expeditions (which is where the group is supposed to go to get on track with the missing **Gerrit**).
+
+The barkeep **Alie** when asks about suspicions says that she, given the tracks around town, believes the thieves to be dwarves from nearby. Her brother **Cory**, the cook, disagrees with his sister. The investigation of the tracks (*24*) supports the dwarves story (small and heavy, probably wearing armor). The track lead north into the tundra. The tracks investigated are about 24 hours old. They completely disapear after 50ft. Ezo learns that something like an aberant egg is growing in Sol. Sol reveals upon the diagnosis that he has been infected by a **Red Slad** about two months ago. Gial learns that Greater Restoration will fix it.
 
 # Ledger
 - Group owes Gial 0gp.
