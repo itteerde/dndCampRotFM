@@ -38,5 +38,9 @@ The group arrives in **Caer Konig** being greeted by the drunken town speaker **
 
 The barkeep **Alie** when asks about suspicions says that she, given the tracks around town, believes the thieves to be dwarves from nearby. Her brother **Cory**, the cook, disagrees with his sister. The investigation of the tracks (*24*) supports the dwarves story (small and heavy, probably wearing armor). The track lead north into the tundra. The tracks investigated are about 24 hours old. They completely disapear after 50ft. Ezo learns that something like an aberant egg is growing in Sol. Sol reveals upon the diagnosis that he has been infected by a **Red Slad** about two months ago. Gial learns that Greater Restoration will fix it.
 
+Hammer 7th 1495. At **Frozenfar Expeditions** the group meets **Jarthra** (Shield Dwarf) and **Atenas** (weathered human). They report that **Gerrit**, with four others bought equipment and went to tavern afterwards. They tell the group the usual route up **Kelvin's Cairn**. The group tracks the expedtion and finds its base camp.
+
+Hammer 7th 1495. After investigating base camp including verifying with the other sled dogs that the expedition went up mountain and did not make it back, the group goes up mountain. The goliaths are telling stories about one of them being raised by **Yeti**. The group climbs, gets overrun by avalanche, finds **Gerrit**, and gets attacked by some kind of mountain lion.
+
 # Ledger
 - Group owes Gial 0gp.
