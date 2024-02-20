@@ -34,5 +34,7 @@ The group buys and equips an Axe Beak, and heads to **Targos** to look for the e
 
 Hammer 6th 1495. When arriving in **Caer Dineval** Kythos Snowbraid met **Kadroth**, asking for supplies. **Kadroth** accepted his request, however should Snowbraid return before the party kills duergar, Snowbraid is a deadman. While waiting tracks down the source of the `Lantern of Tracking` having lit up and indeed finds **Chwinga** playing tricks on an old woman. Ezo talks to one of them and that one starts following Ezo.
 
+The group arrives in **Caer Konig** being greeted by the drunken town speaker **Trovus** who tells the group when making night at the town tavern that the town had problems with thieves during the last three nights. Color switching magical Northern Light, pair of Goats from the Hook, Line and Sinker, small sack of pearls from Frozen Far Expeditions (which is where the group is supposed to go to get on track with the missing **Gerrit**).
+
 # Ledger
 - Group owes Gial 0gp.
