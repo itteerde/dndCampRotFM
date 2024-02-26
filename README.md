@@ -43,4 +43,4 @@ Hammer 7th 1495. At **Frozenfar Expeditions** the group meets **Jarthra** (Shiel
 Hammer 7th 1495. After investigating base camp including verifying with the other sled dogs that the expedition went up mountain and did not make it back, the group goes up mountain. The goliaths are telling stories about one of them being raised by **Yeti**. The group climbs, gets overrun by avalanche, finds **Gerrit**, and gets attacked by some kind of mountain lion.
 
 # Ledger
-- Group owes Gial 0gp.
+- Group owes: 0gp to: -.
