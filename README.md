@@ -42,5 +42,7 @@ Hammer 7th 1495. At **Frozenfar Expeditions** the group meets **Jarthra** (Shiel
 
 Hammer 7th 1495. After investigating base camp including verifying with the other sled dogs that the expedition went up mountain and did not make it back, the group goes up mountain. The goliaths are telling stories about one of them being raised by **Yeti**. The group climbs, gets overrun by avalanche, finds **Gerrit**, and gets attacked by some kind of mountain lion.
 
+The group chases away the mountain lions and enters the cave. They find the bones of the Goliath, and a `Yeti` with an infant and the missing Halfling whom they seem to be using as a toy for the infant. The `Yeti` backs down wounded and calls out for her mate. As the group leaves the cave with the Halfling the other `Yeti` arrives and is bypassed after it attacks Gial. The group leaves, and as the Halfling tells them that the Tiefling has followed the other path within the cave to the top of the mountain, climbs the mountain. They arrive at the top finding the frozend Tiefling and the remains of s Shield Dwarf, seemingly the camp of another expedition.
+
 # Ledger
 - Group owes: 0gp to: -.
