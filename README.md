@@ -44,5 +44,7 @@ Hammer 7th 1495. After investigating base camp including verifying with the othe
 
 The group chases away the mountain lions and enters the cave. They find the bones of the Goliath **Mokingo Growling Bear Akannathi**, and a `Yeti` with an infant and the missing Halfling whom they seem to be using as a toy for the infant. The `Yeti` backs down wounded and calls out for her mate. As the group leaves the cave with the Halfling **Perilou Fishfinger** the other `Yeti` arrives and is bypassed after it attacks Gial. The group leaves, and as the Halfling tells them that the Tiefling has followed the other path within the cave to the top of the mountain, climbs the mountain. They arrive at the top finding the frozend Tiefling **Astrix** and the remains of s Shield Dwarf, seemingly the camp of another expedition.
 
+**Perilou Fishfinger** tells the group that they had been there in order to allow **Moking Growling Bear Akannathi** to wrestle against a `Werebear`, **Oyaminartok, The Winterwalker**, as the Goliath believe who can beat her in a wrestling match is rewarded with some great gifts.
+
 # Ledger
 - Group owes: 0gp to: -.
