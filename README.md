@@ -46,5 +46,16 @@ The group chases away the mountain lions and enters the cave. They find the bone
 
 **Perilou Fishfinger** tells the group that they had been there in order to allow **Moking Growling Bear Akannathi** to wrestle against a `Werebear`, **Oyaminartok, The Winterwalker**, as the Goliath believe who can beat her in a wrestling match is rewarded with some great gifts.
 
+
+### Caer-Konig Thieves
+
+Hammer 8th 1495. The group arrives back at the **Northern Light** at evening. The vial found turns out to be a `Potion of Invisibility` (very rare).
+
+Hammer 10th 1495. The group travells north trying to track down the *heavy or armored* thieves. In the evening, when the group makes camp, Kythos tries to spend some more time tracking, and gets ambushed by `Gnolls`. The group runs towards the fight trying to save Kythos.
+
+
 # Ledger
 - Group owes: 0gp to: -.
+- Group property
+  1. Astrix's `Spellbook`
+  1. `Potion of Invisibility`
