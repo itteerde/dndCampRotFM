@@ -57,5 +57,5 @@ Hammer 10th 1495. The group travells north trying to track down the *heavy or ar
 # Ledger
 - Group owes: 0gp to: -.
 - Group property
-  1. Astrix's `Spellbook`
-  1. `Potion of Invisibility`
+  1. Astrix's `Spellbook` (875gp)
+  1. `Potion of Invisibility` (20,000gp)
