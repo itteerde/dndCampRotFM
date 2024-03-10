@@ -62,4 +62,4 @@ Hammer 10th 1495. The group travells north trying to track down the *heavy or ar
       Level 1: Comprehend Languages, Detect Magic, Expeditious Retreat, Shield, Tenser's Floating Disk
       Level 2: Alter Self, Cloud of Daggers, Scorching Ray, Suggestion
     ```
-  1. `Potion of Invisibility` (20,000gp)
+  1. `Potion of Invisibility` (20,000gp ±10,000)
