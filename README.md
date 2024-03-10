@@ -57,5 +57,16 @@ Hammer 10th 1495. The group travells north trying to track down the *heavy or ar
 # Ledger
 - Group owes: 0gp to: -.
 - Group property
-  1. Astrix's `Spellbook` (875gp)
+  1. Astrix's `Spellbook` (875gp? [different in other game, would be effectively ~0])
+    1.
+      - Comprehend Languages
+      - Detect Magic
+      - Expeditious Retreat
+      - Shield
+      - Tenser's Floating Disk
+    1.
+      - Alter Self
+      - Cloud of Daggers
+      - Scorching Ray
+      - Suggestion
   1. `Potion of Invisibility` (20,000gp)
