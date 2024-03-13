@@ -53,6 +53,8 @@ Hammer 8th 1495. The group arrives back at the **Northern Light** at evening. Th
 
 Hammer 10th 1495. The group travells north trying to track down the *heavy or armored* thieves. In the evening, when the group makes camp, Kythos tries to spend some more time tracking, and gets ambushed by `Gnolls`. The group runs towards the fight trying to save Kythos.
 
+The group saves Kythos, and Sol gets lost in the blizzard. After resting the group finds tracks and follows them to a **Duregar** fortress built into the mountain itself. Failing to enter they retreat, warn the locals, travel to Bryn Shander, and sell the `Potion of Invisibility`.
+
 
 # Ledger
 - Group owes: 0gp to: -.
@@ -62,4 +64,3 @@ Hammer 10th 1495. The group travells north trying to track down the *heavy or ar
       Level 1: Comprehend Languages, Detect Magic, Expeditious Retreat, Shield, Tenser's Floating Disk
       Level 2: Alter Self, Cloud of Daggers, Scorching Ray, Suggestion
     ```
-  1. `Potion of Invisibility` (20,000gp ±10,000)
