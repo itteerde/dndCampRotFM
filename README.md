@@ -53,7 +53,22 @@ Hammer 8th 1495. The group arrives back at the **Northern Light** at evening. Th
 
 Hammer 10th 1495. The group travells north trying to track down the *heavy or armored* thieves. In the evening, when the group makes camp, Kythos tries to spend some more time tracking, and gets ambushed by `Gnolls`. The group runs towards the fight trying to save Kythos.
 
-The group saves Kythos, and Sol gets lost in the blizzard. After resting the group finds tracks and follows them to a **Duregar** fortress built into the mountain itself. Failing to enter they retreat, warn the locals, travel to Bryn Shander, and sell the `Potion of Invisibility`.
+The group saves Kythos, and Sol gets lost in the blizzard. After resting the group finds tracks and follows them to a **Duregar** fortress built into the mountain itself. Failing to enter they retreat, warn the locals, travel to Bryn Shander, and sell the `Potion of Invisibility`. She might be forom the Arcane Brotherhood, an organization of wizards based in Luskan, but ther accent is more like picked up lately, she originates Longsaddle was a sleepy little hamlet on the Long Road in the Savage Frontier of northwest Faerûn. Despite its small size, it was a member of the Lords' Alliance thanks to the presence of the powerful Harpell family of wizards. 
+
+
+Hammer 14th 1495. While selling and gearing up in Bryn Shander a lot of noice is heard from the north. The town seems to be kinda on edge. There is a mood of fear inside the tavern. Some of the town's malitia enters the tavern, and silence falls over the room. They declare that they are looking for Greta Ulfberg as her name came up in the lottery. "You know the law. Auril's tax needs to be paid". For about a year now all towns in the ten towns have been performing some kind of ritual to appease Auril. In Bryn Shander that is a human sacrifice, this time to happen the next day. With them leaving the fear subsides, seemingly everyone was waiting for the result of the lottery.
+
+Gorung "Guy" Dearg introduces himself. At the end of week a Miss Harpell buys the `Potion of Invisibility`.
+
+Late on the 15th they bind the sacrifice to a stake outside of town, and is gone in the morning. The town is back to calmer after it.
+
+### Goodmead mead
+
+Rumor from barkeep: I head that in Goodmead the townspeaker Kendrik Railsbarrow was killed by a 9ft tall giant that stole honey mead. He would consider it a personal favor to dael with that in order to make the mead support flow again.
+
+The group travels to Goodmead in order to take care of it. They arrive at Hammer 19th, 15:00. The people of Good Mead seem to have Chultean origin. There is a neveredning buzz at town, sounds like bees, despite it being way to cold. Townfolk tell the group that it was a Verbeak, a large size Giant-kin, smaller than Hill Giant, larger than Ogre. They tell that Seth Mourn, the twon's scout and hunter, had been leavin every morning since the townspeaker was slain, trying to track and warn.
+
+Seth returns blowing the horn, and reports that he found five militia members with caved in heads.
 
 
 # Ledger
