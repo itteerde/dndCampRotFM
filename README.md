@@ -68,7 +68,7 @@ Rumor from barkeep: I head that in Goodmead the townspeaker Kendrik Railsbarrow 
 
 The group travels to Goodmead in order to take care of it. They arrive at Hammer 19th, 15:00. The people of Good Mead seem to have Chultean origin. There is a neveredning buzz at town, sounds like bees, despite it being way to cold. Townfolk tell the group that it was a Verbeak, a large size Giant-kin, smaller than Hill Giant, larger than Ogre. They tell that Seth Mourn, the twon's scout and hunter, had been leavin every morning since the townspeaker was slain, trying to track and warn.
 
-Seth returns blowing the horn, and reports that he found five militia members with caved in heads.
+Seth returns blowing the horn, and reports that he found five militia members with caved in heads. The group follows, helped by a fox Ezo bought from Seth who caught it in a trap, the tracks and after resting locates a cave system. Inside the cave they find the Verbeak, a Cave Bear and an Orgre who are in the process of roasing human remains, and kill them.
 
 
 # Ledger
