@@ -68,7 +68,9 @@ Rumor from barkeep: I head that in Goodmead the townspeaker Kendrik Railsbarrow 
 
 The group travels to Goodmead in order to take care of it. They arrive at Hammer 19th, 15:00. The people of Good Mead seem to have Chultean origin. There is a neveredning buzz at town, sounds like bees, despite it being way to cold. Townfolk tell the group that it was a Verbeak, a large size Giant-kin, smaller than Hill Giant, larger than Ogre. They tell that Seth Mourn, the twon's scout and hunter, had been leavin every morning since the townspeaker was slain, trying to track and warn.
 
-Seth returns blowing the horn, and reports that he found five militia members with caved in heads. The group follows, helped by a fox Ezo bought from Seth who caught it in a trap, the tracks and after resting locates a cave system. Inside the cave they find the Verbeak, a Cave Bear and an Orgre who are in the process of roasing human remains, and kill them.
+Seth returns blowing the horn, and reports that he found five militia members with caved in heads. The group follows, helped by a fox Ezo bought from Seth who caught it in a trap, the tracks and after resting locates a cave system. Inside the cave they find the Verbeak, a Cave Bear and an Orgre who are in the process of roasing human remains, and kill them. After combat they find Ilxaliam Qican, who had been taken and seemingly been waiting to be killed for food, as the dwarf was. Another Verbeak returns, seemingly the spouse of the one the group had killed. She gets killed, too, and the group rests before searching the place.
+
+A `Pearl of Power` and a `Wand of the War Mage` are found with inside the burial side, and once a fountain cleansing curses is found can be retrieved. For the time being the `Pearl of Power` is given to Ezo, the `Wand of the War Mage` to Ilxaliam.
 
 
 # Ledger
@@ -79,3 +81,5 @@ Seth returns blowing the horn, and reports that he found five militia members wi
       Level 1: Comprehend Languages, Detect Magic, Expeditious Retreat, Shield, Tenser's Floating Disk
       Level 2: Alter Self, Cloud of Daggers, Scorching Ray, Suggestion
     ```
+  1. `Pearl of Power` (Ezo)
+  1. `Wand of the War Mage` (Ilxaliam)
