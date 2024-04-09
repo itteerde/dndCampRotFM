@@ -9,7 +9,7 @@ The Collossi Herja and Ketris arrived in Bryn Shander few days before  the 'week
 ...
 
 
-# Bryn Shander
+# Things around Towns
 
 
 ## Dwarven Iron Ore
@@ -72,6 +72,14 @@ Seth returns blowing the horn, and reports that he found five militia members wi
 
 A `Pearl of Power` and a `Wand of the War Mage` are found with inside the burial side, and once a fountain cleansing curses is found can be retrieved. For the time being the `Pearl of Power` is given to Ezo, the `Wand of the War Mage` to Ilxaliam.
 
+Hammer 21st 1495. The group returns the mead to Good Mead, and in the morning sells the lifestock recovered from the cave.
+
+
+### Dougan's Hole
+
+Rumor from youth (in Goodmead): (not regular) Wolves are supposed to be terrorizing the people of Dougan's Hole. Crying Mammoth? Wolves breathing ice?
+
+The people of Dougan's Hold have minor deformities, like mutations. Ezo is sure that it is birth defects, not something ongoing. Might be something like some magical radiation affecting their birth. Indeed *Winter Wolves* terrorize the town demanding tribute and preventing the people from leaving town. The kids of Hilda, Finn (17) and Sil (16) have disappeared and are assumed to have been taken by the wolves. Ezo tracks them. The group gets ambushed by two giant wolves that demand the group help them against their master, a Frost Giant. As the group is not sure they will be able to find those Taken otherwise, they agree to be led there by the wolves.
 
 # Ledger
 - Group owes: 0gp to: -.
