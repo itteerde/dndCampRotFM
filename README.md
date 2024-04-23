@@ -83,6 +83,17 @@ The people of Dougan's Hold have minor deformities, like mutations. Ezo is sure 
 
 The group is lead to the Frost Giant home, where the wolves try to instigate them being killed by them and a `Wooly Mammoth`. The awakened `Wooly Mammoth` tells the group that the small people had killed the Frost Giant and taken his axe. It promisses to keep the teens alive until being delivered the axe. The group has no knowledge about where that axe is though. They leave two sets of `Cold Weather Clothing` for the teens and return to town.
 
+Back in the village the group rests at the town speaker's house. Next day is spent with knocking on doors and trying to figure out what happened to the axe, while Ezo investigates the `Twenty Stones of Thruun`. The stones turn out to be old wethered stones roughly arranged in a triangle with a single one in the center. No meaningful markings are found.
+
+The canvasing results in learning that about a year ago a group of adventurers indeed took on the `Frost Giant`, and returned with a giant axe. They were a Dwarf, two Humans, two Goliaths, and a Gnome or Halfling. The have hired a `Finnigan`, a fisherman, to take them to the south, but as the river already was frozen to much, they travelled to the north-east instead trying to reach Easthaven. `Finnigan` had to put them ashore in between Good Mead and Easthaven as the river became not valid for travel in that direction as well. With a lead the group heads towards Easthhaven. Indeed in Good Mead nobody is aware of the adventurers.
+
+
+### Easthaven
+
+The group arrives in Easthaven, where a sign informs that the town does the sacrifices to Auril. Currently though they are executing a wizard claimed to be a `Red Wizard of Thay` unrelated though. The captain of the guard/milita offers either a `Spell Scroll: Fireball` or a `Bag of Tricks` if the group returns some lost fisherman, who took their boat onto the lake, where in the center fishing by boat is still possible. The expected direction is more eastwards, and there might be `Harpies`. At the Inn the group learns the name of the adventurers having taken the axe, except the Halfling's name likely being fake: Halfling: Wenver Goodtopple, Goliath 1: Rothar Moonlight, Goliath 2: Draka Thundertusk, Dwarf: Karnar Kindbeard, Human 1: Grren Greatmalt, Human 2: Kavell Copperflower. Also the bard there tells a story about the origin of the inn's name, `The White Lady`, and that related to that there is supposed to be a treasure on the bottom of the lake.
+
+At the `Wet Trout Tavern` the group learns that the adventurers likely traveled towards Bryn Shander after their four days stay in Easthaven. They hire a animal handler and leave in order to look for the missing fishermen.
+
 # Ledger
 - Group owes: 0gp to: -.
 - Group property
