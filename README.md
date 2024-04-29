@@ -92,7 +92,7 @@ The canvasing results in learning that about a year ago a group of adventurers i
 
 The group arrives in Easthaven, where a sign informs that the town does the sacrifices to Auril. Currently though they are executing a wizard claimed to be a `Red Wizard of Thay` unrelated though. The captain of the guard/milita offers either a `Spell Scroll: Fireball` or a `Bag of Tricks` if the group returns some lost fisherman, who took their boat onto the lake, where in the center fishing by boat is still possible. The expected direction is more eastwards, and there might be `Harpies`. At the Inn the group learns the name of the adventurers having taken the axe, except the Halfling's name likely being fake: Halfling: Wenver Goodtopple, Goliath 1: Rothar Moonlight, Goliath 2: Draka Thundertusk, Dwarf: Karnar Kindbeard, Human 1: Grren Greatmalt, Human 2: Kavell Copperflower. Also the bard there tells a story about the origin of the inn's name, `The White Lady`, and that related to that there is supposed to be a treasure on the bottom of the lake.
 
-At the `Wet Trout Tavern` the group learns that the adventurers likely traveled towards Bryn Shander after their four days stay in Easthaven. They hire a animal handler and leave in order to look for the missing fishermen.
+At the `Wet Trout Tavern` the group learns that the adventurers likely traveled towards Bryn Shander after their four days stay in Easthaven. They hire a animal handler, `Dorlis Blackfrost`, 3gp per day, and leave in order to look for the missing fishermen.
 
 # Ledger
 - Group owes: 0gp to: -.
