@@ -28,7 +28,7 @@ Hammer 5th 1495. After having closed the deal with the dwarves in the Shander's 
 The tavern's owner offers some rumors when asked for work.
 1. There was a traveller who stayed in the inn and was speaking about an expedition just out of Targos. He heard that in Targos there was a group planning an expdition to look for a Goliath Lycantroph to be heading to Kelvin's Cairn.
 
-### Lycantroph Expedition => Save Gerrit
+## Lycantroph Expedition => Save Gerrit
 
 The group buys and equips an Axe Beak, and heads to **Targos** to look for the expedition. The group meets **Keegan Valryn**, being led there by his sled dog. He is missing his husband **Gerrit**, who was leading a group of adventurers to **Kelvin's Cairn** by way of **Cair-Konig**. **Gerrit** led them there with a sled with six dogs. He offers free lodgin in the tavern and some artwork. They left three days ago. The dog reports (Speak Animals) that it was a large beast next to the mountain. Ezo convinces the dog to lead the group to where it happened. **Keegan** suggests to visit the supplier in **Caer-Konig** as that would have been where **Gerrit** would have picked up supplies.
 
@@ -47,7 +47,7 @@ The group chases away the mountain lions and enters the cave. They find the bone
 **Perilou Fishfinger** tells the group that they had been there in order to allow **Moking Growling Bear Akannathi** to wrestle against a `Werebear`, **Oyaminartok, The Winterwalker**, as the Goliath believe who can beat her in a wrestling match is rewarded with some great gifts.
 
 
-### Caer-Konig Thieves
+## Caer-Konig Thieves
 
 Hammer 8th 1495. The group arrives back at the **Northern Light** at evening. The vial found turns out to be a `Potion of Invisibility` (very rare).
 
@@ -62,7 +62,7 @@ Gorung "Guy" Dearg introduces himself. At the end of week a Miss Harpell buys th
 
 Late on the 15th they bind the sacrifice to a stake outside of town, and is gone in the morning. The town is back to calmer after it.
 
-### Goodmead mead
+## Goodmead Mead
 
 Rumor from barkeep: I head that in Goodmead the townspeaker Kendrik Railsbarrow was killed by a 9ft tall giant that stole honey mead. He would consider it a personal favor to dael with that in order to make the mead support flow again.
 
@@ -75,7 +75,7 @@ A `Pearl of Power` and a `Wand of the War Mage` are found with inside the burial
 Hammer 21st 1495. The group returns the mead to Good Mead, and in the morning sells the lifestock recovered from the cave.
 
 
-### Dougan's Hole
+## Dougan's Hole
 
 Rumor from youth (in Goodmead): (not regular) Wolves are supposed to be terrorizing the people of Dougan's Hole. Crying Mammoth? Wolves breathing ice?
 
@@ -88,7 +88,7 @@ Back in the village the group rests at the town speaker's house. Next day is spe
 The canvasing results in learning that about a year ago a group of adventurers indeed took on the `Frost Giant`, and returned with a giant axe. They were a Dwarf, two Humans, two Goliaths, and a Gnome or Halfling. The have hired a `Finnigan`, a fisherman, to take them to the south, but as the river already was frozen to much, they travelled to the north-east instead trying to reach Easthaven. `Finnigan` had to put them ashore in between Good Mead and Easthaven as the river became not valid for travel in that direction as well. With a lead the group heads towards Easthhaven. Indeed in Good Mead nobody is aware of the adventurers.
 
 
-### Easthaven
+## Easthaven
 
 The group arrives in Easthaven, where a sign informs that the town does the sacrifices to Auril. Currently though they are executing a wizard claimed to be a `Red Wizard of Thay` unrelated though. The captain of the guard/milita offers either a `Spell Scroll: Fireball` or a `Bag of Tricks` if the group returns some lost fisherman, who took their boat onto the lake, where in the center fishing by boat is still possible. The expected direction is more eastwards, and there might be `Harpies`. At the Inn the group learns the name of the adventurers having taken the axe, except the Halfling's name likely being fake: Halfling: Wenver Goodtopple, Goliath 1: Rothar Moonlight, Goliath 2: Draka Thundertusk, Dwarf: Karnar Kindbeard, Human 1: Grren Greatmalt, Human 2: Kavell Copperflower. Also the bard there tells a story about the origin of the inn's name, `The White Lady`, and that related to that there is supposed to be a treasure on the bottom of the lake.
 
