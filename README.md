@@ -94,6 +94,8 @@ The group arrives in Easthaven, where a sign informs that the town does the sacr
 
 At the `Wet Trout Tavern` the group learns that the adventurers likely traveled towards Bryn Shander after their four days stay in Easthaven. They hire a animal handler, `Dorlis Blackfrost`, 3gp per day, and leave in order to look for the missing fishermen.
 
+The group locates an empty row boat. It has four ores, and empty bottles. Tracks lead from where it could have drifted of from towards a cave. They salvage the boat and enter the cave. A frozen stream comes from the cave. The group scales two frozen waterfalls, and encounters a `Frost Giant Skelleton`. After defeating that they encouter the `Sea Hag`(?) `Maud Chiselbones`, and defeat her and a `Will'o'Whisp`. The `Hag` pretty clearly killed the fishermen and was in the process of cooking them. The group still needs to investigate the cavern. `Detect Magic` is active.
+
 # Ledger
 - Group owes: 0gp to: -.
 - Group property
