@@ -96,6 +96,13 @@ At the `Wet Trout Tavern` the group learns that the adventurers likely traveled 
 
 The group locates an empty row boat. It has four ores, and empty bottles. Tracks lead from where it could have drifted of from towards a cave. They salvage the boat and enter the cave. A frozen stream comes from the cave. The group scales two frozen waterfalls, and encounters a `Frost Giant Skelleton`. After defeating that they encouter the `Sea Hag`(?) `Maud Chiselbones`, and defeat her and a `Will'o'Whisp`. The `Hag` pretty clearly killed the fishermen and was in the process of cooking them. The group still needs to investigate the cavern. `Detect Magic` is active.
 
+The group explores the cave and is attacked by the `Harpies` trying to make them jump the cliff. The group defeats the `Harpies`, with one of them escaping. On the way back in those who jumped the cliff are attacked by a `Water Weird`, which is defeated. The group just did that, needs to get the magical cauldron, and return to `Easthaven`. It has been discussed to try to trick the `Mammoth` with the axe found in the cave in order to save the children. Alternatively one might try to follow the one year old track of the axe to `Bryn Shander`.
+
+
+# Tasks
+- `Dougan's Hole` taken teenagers.
+- `Duregar Fortress` and thieves.
+
 # Ledger
 - Group owes: 0gp to: -.
 - Group property
