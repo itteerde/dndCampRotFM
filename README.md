@@ -113,3 +113,5 @@ The group explores the cave and is attacked by the `Harpies` trying to make them
     ```
   1. `Pearl of Power` (Ezo)
   1. `Wand of the War Mage` (Ilxaliam)
+  1. `Cauldron of Plenty` (Ketris)
+  1. `Boots of the Winderlands` (Ezo)
