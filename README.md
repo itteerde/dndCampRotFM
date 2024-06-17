@@ -99,9 +99,21 @@ The group locates an empty row boat. It has four ores, and empty bottles. Tracks
 The group explores the cave and is attacked by the `Harpies` trying to make them jump the cliff. The group defeats the `Harpies`, with one of them escaping. On the way back in those who jumped the cliff are attacked by a `Water Weird`, which is defeated. The group just did that, needs to get the magical cauldron, and return to `Easthaven`. It has been discussed to try to trick the `Mammoth` with the axe found in the cave in order to save the children. Alternatively one might try to follow the one year old track of the axe to `Bryn Shander`.
 
 
+## Bryn Shander
+
+The group waits for the fake axe to be made, and Ilixilian learns of a friend of a cleric being missing, but does not tell the rest of the group right away. After the week the group travels to the `Frost Giant` house to get the teens from `Dougan's Hole`. The `Awakened Mammoth` does return the teens, but on the way back the `Frost Wolves` attack the group. One is killed, one is sent of to see the sea, and the group returns the teens. Fog joins the group.
+
+
+## Easthaven 
+
+Leatherworking is ordered, and the group investigates a Dwarvish (maybe Duregar) attack, where a few attackers have killed two guards after breaking in in order to steal the metal a ship's figure head presented at the town hall was made of. The group loses the track outside of town and assumes it was probably Duregar. The group heads back to the Hag cavern to get some Harpie feathers in order to complete the `Winged Boots`.
+
+
 # Tasks
 - `Dougan's Hole` taken teenagers.
 - `Duregar Fortress` and thieves.
+- `Bremen` fishermen.
+- `Bryn Shander` friend missing.
 
 # Ledger
 - Group owes: 0gp to: -.
