@@ -108,6 +108,8 @@ The group waits for the fake axe to be made, and Ilixilian learns of a friend of
 
 Leatherworking is ordered, and the group investigates a Dwarvish (maybe Duregar) attack, where a few attackers have killed two guards after breaking in in order to steal the metal a ship's figure head presented at the town hall was made of. The group loses the track outside of town and assumes it was probably Duregar. The group heads back to the Hag cavern to get some Harpie feathers in order to complete the `Winged Boots`.
 
+The group takes two weeks of downtime in order to complete the crafting of the `Cloak of Protection` and `Rod of the Pactkeeper` as only Illixilian and Gial can do the crafting the `Immovable Rod` is postponed. Fog learns that the ferry has not been visited by its owner for months, and that the disturbances ended around the time the Dwarfs/Duregar attacked town hall getting the Chardalyn.
+
 
 # Tasks
 - `Dougan's Hole` taken teenagers.
