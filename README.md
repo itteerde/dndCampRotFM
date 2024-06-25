@@ -110,6 +110,20 @@ Leatherworking is ordered, and the group investigates a Dwarvish (maybe Duregar)
 
 The group takes two weeks of downtime in order to complete the crafting of the `Cloak of Protection` and `Rod of the Pactkeeper` as only Illixilian and Gial can do the crafting the `Immovable Rod` is postponed. Fog learns that the ferry has not been visited by its owner for months, and that the disturbances ended around the time the Dwarfs/Duregar attacked town hall getting the Chardalyn.
 
+Not finding anything new, the scene on the ferry being consistent with it having been the hideout for the Duregar taking the Chardalyn, the group heads to Bryn Shander to talk with the person Ilixillian meat who is missing a friend.
+
+
+## Bryn Shander
+
+At the temple the chruch's attic's tennent informs the group that he left his friend at a cabin north of Termaline, where they had been trying to build a device to end the Rime, based on old literature. He has not hear from him for some time, is worried, and wants the group to deliver supplies and check on him.
+
+
+## Termaline
+
+The group reaches Termaline where a boy calls out that the town speaker is looking for help to deal with the monster investation of the gem mine. The group speaks with the town speaker who is offering 50gp for the whole group to clear the mine of Kobolds who have taken over the mine.
+
+The group meets the Kobolds inside of the mine and Gial figures out that their leader has been possessed and that they are hiding from the Yetis that have displaced them from their home area near Care (which?).
+
 
 # Tasks
 - `Dougan's Hole` taken teenagers.
